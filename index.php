@@ -40,7 +40,7 @@
 	  <p class="lead" style ="font-family: 'marck script',cursive;color : rosybrown" > Website ini ditujukan untuk menampilkan informasi editor beserta artikel yang telah diedit<br>Data bersumber dari struktur data hash yang diintegrasi dengan Web</p>
 	  <hr class="my-4" style ="font-family: 'marck script',cursive">
 	  <p style ="font-family: 'marck script',cursive;color : rosybrown">Website ini dibuat untuk memenuhi tugas Projek Lab Matakuliah Struktur Data dan Algoritma Program Studi Informatika Unsyiah</p>
-	  <a class="btn btn-lg" href="https://github.com/putriisnaaaa/FinalSDA" role="button " style ="background-color:#ffcccc"><i class="fab fa-github" style ="font-family: 'marck script',cursive;"></i> Let's go to Mygithub </a>
+	  <a class="btn btn-lg" href="https://github.com/cutmeutiahau/Projeklab" role="button " style ="background-color:#ffcccc"><i class="fab fa-github" style ="font-family: 'marck script',cursive;"></i> Let's go to Mygithub </a>
 	</div>
 	<!-- End Jumbotron -->
 
