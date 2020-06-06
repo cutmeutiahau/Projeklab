@@ -60,7 +60,7 @@
                Jurusan :  S1 Informatika Universitas Syiah Kuala
                <br>
             </p>
-            <img src="assets\\img\\.jpg" width="20%">
+            <img src="assets\\img\\me.jpg" width="20%">
             </center>
         </div>
         <script src="assets\bootstrap\js\jquery.min.js">
